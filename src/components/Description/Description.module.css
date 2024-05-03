@@ -1,0 +1,21 @@
+h1,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.descriptionContainer {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  color: rgb(59, 52, 52);
+  padding-left: 16px;
+}
+.descriptionHeader {
+  margin-bottom: 24px;
+}
+.description {
+  margin-bottom: 24px;
+  font-weight: 500;
+}
