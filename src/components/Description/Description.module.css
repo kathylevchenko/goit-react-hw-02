@@ -10,7 +10,7 @@ p {
   align-items: flex-start;
   flex-direction: column;
   color: rgb(59, 52, 52);
-  padding-left: 16px;
+  padding-left: 15px;
 }
 .descriptionHeader {
   margin-bottom: 24px;
